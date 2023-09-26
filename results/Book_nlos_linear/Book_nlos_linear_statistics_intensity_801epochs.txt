@@ -1,0 +1,3 @@
+ intensity    avg_mae   std_mae   avg_rmse  std_rmse  avg_num_points  epochs
+       0.1 563.309940 11.177821 641.234542 13.153745             442     801
+       0.5 495.829666  1.807326 562.498046  1.473570            2179     801

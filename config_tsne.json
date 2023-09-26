@@ -1,0 +1,33 @@
+{   
+    "project_path": ".",
+    "experiment_name": "Book_nlos_linear",
+    "saved_dataset_path": "/content/ssl_wireless/datasets/Book_nlos_21",
+    "dataset_to_download": "URA_lab_nLoS",
+    "sub_dataset_to_use": "combined_data_kul_tsne_testing.npy",
+    "sub_loc_dataset_to_use": "combined_labels_kul_tsne_testing.npy",
+    "realMax": 0.071470265481,
+    "imagMax": 0.071470265481,
+    "absMax": 0.0804657278138,
+
+    "train_and_val_batchsize":512, 
+
+    "arg1_encoder": "targ_encoder",
+    "arg2_model_name": "wit",
+    "arg3_Nr": 64,
+    "arg4_Nc": 100,
+    "arg5_Nc_prime": 32,
+
+    "arg_classifier_k": 20,
+    "arg_classifier_c_spots": 12, 
+    "pth_names_classifier":["RANDOm"],
+    "criterion": "NA",
+    "device": "cuda",
+    "epochs_linear": 501,
+    "best_vloss": 0.00001,
+    "learning_rate_eval": 3e-2,
+    "pth_name_linear_tuner":"NA",
+    "data_regimes": ["NA"],
+    "save_results": false,
+    "save_new_models": false
+
+}
