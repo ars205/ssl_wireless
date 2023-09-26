@@ -1,7 +1,7 @@
 {   
     "project_path": ".",
     "experiment_name": "Book_nlos_linear",
-    "saved_dataset_path": "/content/ssl_wireless/datasets/Book_nlos_21",
+    "saved_dataset_path": "/content/ssl_wireless/datasets/Book_nlos_linear",
     "dataset_to_download": "URA_lab_nLoS",
     "sub_dataset_to_use": "combined_data_kul_tsne_testing.npy",
     "sub_loc_dataset_to_use": "combined_labels_kul_tsne_testing.npy",

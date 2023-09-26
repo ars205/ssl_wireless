@@ -1,7 +1,7 @@
 {
     "project_path": ".",
     "experiment_name": "Book_nlos_linear",
-    "saved_dataset_path": "/content/ssl_wireless/datasets/Book_nlos_21",
+    "saved_dataset_path": "/content/ssl_wireless/datasets/Book_nlos_linear",
     "dataset_to_download": "URA_lab_nLoS", 
     "sub_dataset_to_use": "kuluwen_URA_lab_nLoS_CSI_9k.npy",
     "sub_loc_dataset_to_use": "kuluwen_URA_lab_nLoS_LOC_9k.npy",
@@ -25,7 +25,7 @@
     "epochs_linear": 501,
     "best_vloss": 1e-05,
     "learning_rate_eval": 3e-2,
-    "pth_name_linear_tuner": "/checkpoint0136.pth", 
+    "pth_name_linear_tuner": "/model_SWiT.pth", 
     "data_regimes": [
         "1k"
     ],
