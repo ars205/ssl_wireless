@@ -18,7 +18,7 @@
     "arg_classifier_c_spots": 4,
     "pth_names_classifier": [
         "Rand1",
-        "checkpoint0196"
+        "model_SWiT"
     ],
     "criterion": "MSE",
     "device": "cuda",
